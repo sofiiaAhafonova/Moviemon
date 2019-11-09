@@ -8,3 +8,9 @@ def home(request):
         'title': 'Home Page Title'
         }
     )
+
+def worldmap(request):
+    return render(request, 'home.html', {
+        'title': 'Worldmap Page Title'
+        }
+    )
