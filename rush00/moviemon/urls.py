@@ -11,4 +11,8 @@ urlpatterns = [
     re_path(r'^options/$', views.options, name='options'),
     re_path(r'^options/save_game/$', views.save_game, name='save_game'),
     re_path(r'^options/load_game/$', views.load_game, name='load_game'),
+    re_path(r'^move/up', views.move, name='up'),
+    re_path(r'^move/down', views.move, name='down'),
+    re_path(r'^move/left', views.move, name='left'),
+    re_path(r'^move/right', views.move, name='right'),
 ]

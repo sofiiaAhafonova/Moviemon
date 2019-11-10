@@ -53,3 +53,6 @@ def load_game(request):
         'title': 'Load Game Page Title'
         }
     )
+
+def move(request):
+    print(request)

@@ -1,11 +1,17 @@
 {% extends 'includes/base.html' %}
-{% block content %}
 
-<div> A : NEW GAME </div>
-
-<div> B : LOAD GAME </div>
-
+{% block control%}
+    You have {{nb_movieballs}} movieballs <br>
+    {% ifequal action 'movieball' %}
+    You find a movieball
+    {% endifequal %}
+    {% ifequal action 'moviemon' %}
+    You find a moviemon <br>
+    A - Try to catch in movieball
+    {% endifequal %}
 {% endblock %}
+{% block content %}
+{% endblock%}
 {% block map %}
 	{% ifequal action 'moviemon' %}
 		<area shape="circle" coords="639,619,25" href="{% url "battle" moviemon_name %}" alt="A">
