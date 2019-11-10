@@ -1,8 +1,17 @@
 {% extends 'includes/base.html' %}
-{% block content %}
-
-<div> A : NEW GAME </div>
-
-<div> B : LOAD GAME </div>
-
+{% block content%}
+<div class='case'>
+    <ul>
+        <li>
+            A : NEW GAME
+        </li>
+        <li>
+            B : LOAD GAME
+        </li>
+    <ul>
+</div>
+{% endblock %}
+{% block map %}
+        <area shape="circle" coords="639,619,25" href="{% url "worldmap" %}" alt="A">
+        <area shape="circle" coords="576,652,25" href="{% url "load_game" %}" alt="B">
 {% endblock %}

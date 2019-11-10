@@ -1,5 +1,6 @@
 import pickle
 import requests
+import os
 
 class Storage:
     def __init__(self, file_name):
@@ -37,7 +38,21 @@ class Storage:
         Query and store the details of all Moviemons on IMDB. 
         Return the current instance.
         """
-        pass
+        if os.path.isfile(self.filename):
+            os.remove(self.filename)
+        game_data = {
+            'length': 10,
+            'height': 10,
+            'x': 0,
+            'y': 0,
+            'movieball': 10,
+            'moviemon_db': load_moviemons(),
+            'captured_moviemons': [],
+            'captured_moviemons_nb': 0,
+        }
+        self.dump(game_data)
+
+
     
     def get_strength(self):
         """
@@ -53,7 +68,7 @@ class Storage:
         pass
     
 
-def load_moviemons(self):
+def load_moviemons():
     movie_ids = ['tt0110912', 'tt0068646', 'tt0137523', 'tt1213644', 'tt0811138', 'tt0432291', 'tt6892400', 'tt0432291', 'tt0482571', 'tt8772262', 'tt1386697', 'tt2294629', 'tt7343762']
     moviemons = []
     for movie_id in movie_ids:
@@ -64,3 +79,8 @@ def load_moviemons(self):
         except Exception as e:
             print(e)
     return moviemons
+
+if __name__ == "__main__":
+    moviemons = load_moviemons()
+    for each in moviemons:
+        print(each['Title'])

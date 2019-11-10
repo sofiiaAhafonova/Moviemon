@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-
+{% load static %}
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    <title>{{title}}</title>
+    {% block style %}
+    {% endblock %}
 </head>
 
 <body>
     {% include 'includes/header.html' %}
-    <h1>{{title}}</h1>
-    {% block content %}{% endblock %}
+    <img id="gameboy" alt="gameboy" src="{% static 'img/gameboy.jpg' %}" usemap="#gameboy" />
+	<img id="gray_screen" alt="gray_screen" src="{% static 'img/gray_screen.jpg' %}"/>
+	{% block content %}
+	<div class='case battle'>
+	{% endblock %}
+	</div>
+	<map name="gameboy">
+    {% block map %}
+    {% endblock %}
+	</map>
     {% include 'includes/footer.html' %}
 </body>
 

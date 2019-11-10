@@ -1,8 +1,25 @@
 {% extends 'includes/base.html' %}
-{% block content %}
+{% block content%}
+<div class='case'>
+    <ul>
+        <li>
+            A - SAVE
+        </li>
+        <li>
+            B - QUIT
+        </li>
+        <li>
+            start - CANCEL
+        </li>
+    <ul>
+</div>
+{% endblock %}
 
-<div> A : NEW GAME </div>
+{% block control%}
+{% endblock %}
 
-<div> B : LOAD GAME </div>
-
+{% block map %}
+    <area shape="circle" coords="639,619,25" href="{% url "save_game" %}" alt="A">
+    <area shape="circle" coords="576,652,25" href="{% url "init" %}" alt="B">
+    <area shape="rect" coords="484,738,529,780" href="{% url "worldmap" %}" alt="start">
 {% endblock %}
