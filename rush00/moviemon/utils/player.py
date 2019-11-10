@@ -1,7 +1,9 @@
 class Position:
-    def __init__(self, x=0, y=0):
+    def __init__(self, x=0, y=0, strength=0, movieballs=100):
         self.x = x
         self.y = y
+        self.strength = strength
+        self.movieballs = movieballs
 
 class Player:
     def __init__(self, position:Position, movieballs = None):
