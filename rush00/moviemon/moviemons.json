@@ -1,0 +1,278 @@
+[
+    {
+        "Title": "Pulp Fiction",
+        "Year": "1994",
+        "Rated": "R",
+        "Released": "14 Oct 1994",
+        "Runtime": "154 min",
+        "Genre": "Crime, Drama",
+        "Director": "Quentin Tarantino",
+        "Writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
+        "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+        "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "Language": "English, Spanish, French",
+        "Country": "USA",
+        "Awards": "Won 1 Oscar. Another 62 wins & 69 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }
+        ],
+        "Metascore": "94",
+        "imdbRating": "8.9",
+        "imdbVotes": "1,690,857",
+        "imdbID": "tt0110912",
+        "Type": "movie",
+        "DVD": "19 May 1998",
+        "BoxOffice": "N/A",
+        "Production": "Miramax Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Godfather",
+        "Year": "1972",
+        "Rated": "R",
+        "Released": "24 Mar 1972",
+        "Runtime": "175 min",
+        "Genre": "Crime, Drama",
+        "Director": "Francis Ford Coppola",
+        "Writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+        "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+        "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "Language": "English, Italian, Latin",
+        "Country": "USA",
+        "Awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "98%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "100/100"
+            }
+        ],
+        "Metascore": "100",
+        "imdbRating": "9.2",
+        "imdbVotes": "1,479,706",
+        "imdbID": "tt0068646",
+        "Type": "movie",
+        "DVD": "09 Oct 2001",
+        "BoxOffice": "N/A",
+        "Production": "Paramount Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Fight Club",
+        "Year": "1999",
+        "Rated": "R",
+        "Released": "15 Oct 1999",
+        "Runtime": "139 min",
+        "Genre": "Drama",
+        "Director": "David Fincher",
+        "Writer": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+        "Actors": "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier",
+        "Plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "Language": "English",
+        "Country": "USA, Germany",
+        "Awards": "Nominated for 1 Oscar. Another 10 wins & 34 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ],
+        "Metascore": "66",
+        "imdbRating": "8.8",
+        "imdbVotes": "1,720,737",
+        "imdbID": "tt0137523",
+        "Type": "movie",
+        "DVD": "06 Jun 2000",
+        "BoxOffice": "N/A",
+        "Production": "20th Century Fox",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Disaster Movie",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "29 Aug 2008",
+        "Runtime": "87 min",
+        "Genre": "Comedy",
+        "Director": "Jason Friedberg, Aaron Seltzer",
+        "Writer": "Jason Friedberg, Aaron Seltzer",
+        "Actors": "Matt Lanter, Vanessa Lachey, Gary 'G. Thang' Johnson, Nicole Parker",
+        "Plot": "Over the course of one evening, an unsuspecting group of twenty-somethings find themselves bombarded by a series of natural disasters and catastrophic events.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "1 win & 6 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzMDQyNDgwNl5BMl5BanBnXkFtZTcwMDA0MTc3MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "1.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "1%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "15/100"
+            }
+        ],
+        "Metascore": "15",
+        "imdbRating": "1.9",
+        "imdbVotes": "83,799",
+        "imdbID": "tt1213644",
+        "Type": "movie",
+        "DVD": "06 Jan 2009",
+        "BoxOffice": "$14,174,654",
+        "Production": "Lionsgate",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Love Guru",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "20 Jun 2008",
+        "Runtime": "87 min",
+        "Genre": "Comedy, Romance, Sport",
+        "Director": "Marco Schnabel",
+        "Writer": "Mike Myers, Graham Gordy",
+        "Actors": "Jessica Simpson, Kanye West, Mike Myers, Deepak Chopra",
+        "Plot": "Pitka, an American raised outside of his country by gurus, returns to the States in order to break into the self-help business. His first challenge is to settle the romantic troubles and subsequent professional skid of a star hockey player whose wife left him for a rival athlete.",
+        "Language": "English",
+        "Country": "UK, Germany, USA",
+        "Awards": "5 wins & 8 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3OTY1MTQ3MF5BMl5BanBnXkFtZTcwMDIzMTM3MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "3.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "14%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "24/100"
+            }
+        ],
+        "Metascore": "24",
+        "imdbRating": "3.8",
+        "imdbVotes": "48,420",
+        "imdbID": "tt0811138",
+        "Type": "movie",
+        "DVD": "16 Sep 2008",
+        "BoxOffice": "$32,178,777",
+        "Production": "Paramount Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Fog",
+        "Year": "2005",
+        "Rated": "PG-13",
+        "Released": "14 Oct 2005",
+        "Runtime": "100 min",
+        "Genre": "Horror",
+        "Director": "Rupert Wainwright",
+        "Writer": "Cooper Layne (screenplay), John Carpenter, Debra Hill",
+        "Actors": "Tom Welling, Maggie Grace, Selma Blair, DeRay Davis",
+        "Plot": "A thick mist full of vengeful spirits haunts a prosperous island town off the coast of Oregon, as its inhabitants try to learn their town's dark secret in order to stop it.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "2 wins.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NzM3Njg0M15BMl5BanBnXkFtZTcwNzI1NDAzMQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "3.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "4%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "27/100"
+            }
+        ],
+        "Metascore": "27",
+        "imdbRating": "3.7",
+        "imdbVotes": "33,406",
+        "imdbID": "tt0432291",
+        "Type": "movie",
+        "DVD": "24 Jan 2006",
+        "BoxOffice": "$29,511,112",
+        "Production": "Sony Pictures Classics",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Girl in the Fog",
+        "Year": "2017",
+        "Rated": "PG-13",
+        "Released": "26 Oct 2017",
+        "Runtime": "128 min",
+        "Genre": "Crime, Mystery, Thriller",
+        "Director": "Donato Carrisi",
+        "Writer": "Donato Carrisi (novel), Donato Carrisi (screenplay)",
+        "Actors": "Toni Servillo, Alessio Boni, Lorenzo Richelmy, Galatea Ranzi",
+        "Plot": "Special agent Vogel is sent to an isolated town in a remote mountain valley to investigate the case of a sixteen years old's disappearance.",
+        "Language": "Italian",
+        "Country": "Italy, Germany, France",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODNjMTllODUtZDYwMi00M2JmLWJiNGYtN2JlOWQ3NmViZDM5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "86%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.8",
+        "imdbVotes": "5,416",
+        "imdbID": "tt6892400",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
